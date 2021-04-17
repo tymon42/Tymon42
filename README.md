@@ -1,4 +1,17 @@
-### Hi there 👋
+## Hi, My name is Tymon42 👋  
+## 💬 Worked language for me  
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡C / C++ 
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / Lua
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Go 
+<!-- - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡HTML / CSS / JavaScript -->
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡And more...
+
+## 📮 How to reach me  
+- Email [Follow Up Here](mailto:tymon42@outlook.com)
+<!--
+- Blog [@Angelic47's Blog](https://www.angelic47.com)
+- Email [Follow Up Here](mailto:admin@angelic47.com)
+-->
 
 <!--
 **Tymon42/Tymon42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
