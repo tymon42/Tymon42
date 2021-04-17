@@ -5,9 +5,9 @@
 ## 💬 Worked language for me  
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡C / C++ 
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / Lua
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Go 
-<!-- - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡HTML / CSS / JavaScript -->
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Go
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡And more...
+<!-- - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡HTML / CSS / JavaScript -->
 
 ## 📮 How to reach me  
 - Email [Follow Up Here](mailto:tymon42@outlook.com)
