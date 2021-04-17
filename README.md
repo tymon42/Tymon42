@@ -1,6 +1,6 @@
 ## Hi, My name is Tymon42 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tymon42&show_icons=true&theme=radical">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tymon42&show_icons=true&title_color=ff2686&icon_color=ff2686&text_color=403339&bg_color=ffffff&hide_title=false">
 
 ## 💬 Worked language for me  
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡C / C++ 
