@@ -9,7 +9,7 @@
 <!-- - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡HTML / CSS / JavaScript -->
 
 ## 📮 How to reach me  
-- [All my links](https://bento.me/harrywong)  
+- All my [links](https://bento.me/harrywong)  
 - Email [Follow Up Here](mailto:tymon42@outlook.com)  
 <!--
 - Email [Follow Up Here](mailto:admin@angelic47.com)
