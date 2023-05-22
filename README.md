@@ -8,12 +8,9 @@
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡And more...
 <!-- - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡HTML / CSS / JavaScript -->
 
-## My blog
-
-
 ## 📮 How to reach me  
-- Email [Follow Up Here](mailto:tymon42@outlook.com)
-- Blog [@Harry's Blog](https://www.tymon42.github.io)
+- [All my links](https://bento.me/harrywong)  
+- Email [Follow Up Here](mailto:tymon42@outlook.com)  
 <!--
 - Email [Follow Up Here](mailto:admin@angelic47.com)
 -->
