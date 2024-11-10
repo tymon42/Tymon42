@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cofounder of 2SOMEone
 ---------------------
 
-A fruit stack engineering. Interested in AI and Web3. Learning to create new things and Saas.
+A full stack engineer. Interested in AI and Web3. Learning to create new things and Saas.
 
 * 🌍  I'm based in Big bay area, China
 * 🖥️  See my portfolio at [My portfolio](http://bento.me/harrywong)
