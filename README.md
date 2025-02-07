@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harry Wong
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tymon42
 ==================================================================================================================================
 
 Cofounder of 2SOMEone
@@ -7,8 +7,6 @@ Cofounder of 2SOMEone
 A full stack engineer. Interested in AI and Web3. Learning to create new things and Saas.
 
 * 🌍  I'm based in Big bay area, China
-* 🖥️  See my portfolio at [My portfolio](http://bento.me/harrywong)
-* ✉️  You can contact me at [tymon42@outlook.com](mailto:tymon42@outlook.com)
 * 🚀  I'm currently working on [2SOMEone](http://2some.one)
 * 🧠  I'm learning NextJS
 * 🤝  I'm open to collaborating on Saas
